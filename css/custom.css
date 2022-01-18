@@ -1,0 +1,11 @@
+.is-3-column {
+  background-image: url("https://raw.githubusercontent.com/BlakeNeko/blog-images/main/bg.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.widget,
+.footer {
+  background-color: rgba(255,255,255,0.7);
+}
